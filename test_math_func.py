@@ -10,4 +10,3 @@ def test_sub():
     assert math_func.sub(3,2)==1
     assert math_func.sub(9,6)==3
     assert math_func.sub(10.0,6.2)==3.8
-    assert math_func.sub(9.2,6.0)==3.2
